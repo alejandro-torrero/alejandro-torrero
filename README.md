@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro ??
+# Hi, I'm Alejandro
 
 **Full Stack Developer** ? Web & mobile solutions
 
@@ -6,7 +6,7 @@ I'm a software developer passionate about building solutions that bridge technol
 
 ---
 
-## ?? What I Do
+## What I Do
 
 - **Frontend** ? React, React Native, TypeScript, modern CSS (Tailwind, MUI). I care about UX, performance, and maintainable components.
 - **Backend** ? Node.js, Express, REST APIs, and server-side logic. I design for clarity and scalability.
@@ -17,7 +17,7 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 
 ---
 
-## ?? Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -30,7 +30,7 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 
 ---
 
-## ?? Tech & Tools
+## Tech & Tools
 
 **Frontend:** HTML5 ? CSS3 ? JavaScript ? TypeScript ? React ? React Native ? Redux ? Tailwind CSS ? MUI ? Three.js  
 
@@ -40,7 +40,7 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 
 ---
 
-## ?? Featured Projects
+## Featured Projects
 
 | Project | Stack | What it does |
 |--------|--------|----------------|
@@ -52,7 +52,7 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 
 ---
 
-## ?? Portfolio
+## Portfolio
 
 This repo is my **portfolio site**: a React + Vite app with 3D (Three.js), i18n (EN/ES), Framer Motion, and a contact form (EmailJS).
 
@@ -60,13 +60,13 @@ This repo is my **portfolio site**: a React + Vite app with 3D (Three.js), i18n 
 
 ---
 
-## ?? Get in touch
+## Get in touch
 
 - **Portfolio:** [atorrero.netlify.app](https://atorrero.netlify.app/)
 - **LinkedIn:** [Alejandro Torrero](https://www.linkedin.com/in/alejandro-torrero/)
 
-Have a project in mind or want to chat? I?m open to collaboration and new challenges.
+Have a project in mind or want to chat? I'm open to collaboration and new challenges.
 
 ---
 
-*Diego Alejandro Torrero Gracia ? Full Stack Developer*
+*Diego Alejandro Torrero Gracia � Full Stack Developer*
