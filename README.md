@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro
 
-**Full Stack Developer** ? Web & mobile solutions
+**Full Stack Developer** | Web & mobile solutions
 
 I'm a software developer passionate about building solutions that bridge technology and business needs. I thrive on clean code, scalable architecture, and turning complex problems into simple, user-friendly products.
 
@@ -8,10 +8,10 @@ I'm a software developer passionate about building solutions that bridge technol
 
 ## What I Do
 
-- **Frontend** ? React, React Native, TypeScript, modern CSS (Tailwind, MUI). I care about UX, performance, and maintainable components.
-- **Backend** ? Node.js, Express, REST APIs, and server-side logic. I design for clarity and scalability.
-- **Data & infra** ? MongoDB, MySQL, PostgreSQL. Database design, queries, and a bit of DevOps (Docker, AWS, IIS).
-- **Automation & integration** ? RPA, API integrations, voicebots (SIP), and internal tools that save time and reduce errors.
+- **Frontend** - React, React Native, TypeScript, modern CSS (Tailwind, MUI). I care about UX, performance, and maintainable components.
+- **Backend** - Node.js, Express, REST APIs, and server-side logic. I design for clarity and scalability.
+- **Data & infra** - MongoDB, MySQL, PostgreSQL. Database design, queries, and a bit of DevOps (Docker, AWS, IIS).
+- **Automation & integration** - RPA, API integrations, voicebots (SIP), and internal tools that save time and reduce errors.
 
 I'm a fast learner and problem-solver. I work well in teams and enjoy collaborating with clients and stakeholders to deliver solutions that actually solve problems.
 
@@ -21,8 +21,8 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Software Developer** | [Xira](https://xira.ai/) | Nov 2024 ? Present |
-| **IT Support Auxiliary** | [Inmobiliaria Vinte](https://vinte.com/es/) | May 2023 ? Nov 2024 |
+| **Software Developer** | [Xira](https://xira.ai/) | Nov 2024 - Present |
+| **IT Support Auxiliary** | [Inmobiliaria Vinte](https://vinte.com/es/) | May 2023 - Nov 2024 |
 
 **At Xira** I work on JavaScript/TypeScript projects (AI wrappers), voicebots with SIP and carriers, RPAs for workflow automation, and concurrent workers for complex flows.
 
@@ -32,11 +32,11 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 
 ## Tech & Tools
 
-**Frontend:** HTML5 ? CSS3 ? JavaScript ? TypeScript ? React ? React Native ? Redux ? Tailwind CSS ? MUI ? Three.js  
+**Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React | React Native | Redux | Tailwind CSS | MUI | Three.js  
 
-**Backend & data:** Node.js ? Express ? MongoDB ? MySQL ? PostgreSQL ? Go  
+**Backend & data:** Node.js | Express | MongoDB | MySQL | PostgreSQL | Go  
 
-**DevOps & other:** Git ? Docker ? AWS ? Microsoft IIS  
+**DevOps & other:** Git | Docker | AWS | Microsoft IIS  
 
 ---
 
@@ -45,8 +45,8 @@ I'm a fast learner and problem-solver. I work well in teams and enjoy collaborat
 | Project | Stack | What it does |
 |--------|--------|----------------|
 | **Data Dashboard Integration** | React, MongoDB, MUI | BI platform with third-party APIs and semi-manual input; centralizes agent and user metrics. |
-| **Barcode Scanner App** | React Native, Expo | Multi-format scanner; scan ? send by email / copy-paste to speed up invoice payments. |
-| **Splash Page Form** | Node.js | Dynamic Wi?Fi splash page; captures user data via form + Cisco Meraki URL params. |
+| **Barcode Scanner App** | React Native, Expo | Multi-format scanner; scan -> send by email / copy-paste to speed up invoice payments. |
+| **Splash Page Form** | Node.js | Dynamic Wi-Fi splash page; captures user data via form + Cisco Meraki URL params. |
 | **Asset Management System** | React, MySQL | Custom asset tracking: responsibilities, docs, value; bridges finance and IT. |
 | **Ticket Sender** | Node.js, Nodemailer | One-off script to send custom emails and create IT tickets in bulk. |
 
@@ -69,4 +69,4 @@ Have a project in mind or want to chat? I'm open to collaboration and new challe
 
 ---
 
-*Diego Alejandro Torrero Gracia � Full Stack Developer*
+*Diego Alejandro Torrero Gracia | Full Stack Developer*
