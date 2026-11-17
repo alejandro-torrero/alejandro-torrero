@@ -7,4 +7,4 @@ I'm a passionate software engineer with 4 years of experience building full-stac
 
 - **Portfolio:** [atorrero.netlify.app](https://atorrero.netlify.app/)
 - **LinkedIn:** [Alejandro Torrero](https://www.linkedin.com/in/alejandro-torrero/)
-- **Leetcode:** [Leetcode](https://leetcode.com/u/user7649YM/)
+- **Leetcode:** [Alejandro Torrero](https://leetcode.com/u/user7649YM/)
